@@ -1,0 +1,6 @@
+FBR Pakistan Income Tax Slabs for Salaried Individuals:
+1. Annual income up to PKR 600,000 is tax-free (0% tax).
+2. Annual income from PKR 600,001 to PKR 1,200,000 is taxed at 5% of the amount exceeding PKR 600,000.
+3. Annual income from PKR 1,200,001 to PKR 2,200,000 is taxed at PKR 30,000 + 15% of the amount exceeding PKR 1,200,000.
+4. Wealth management and savings rule: Standard practice recommends saving at least 20% of your net monthly income.
+5. Zakat calculation rule: Zakat is applicable at 2.5% on the total wealth/assets that meet or exceed the Nisab threshold for a full lunar year.
